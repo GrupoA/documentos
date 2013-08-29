@@ -1,3 +1,5 @@
-﻿Documento1
+﻿Essa é a versão Oficial
+
+Documento1
 2 Commit
 Criado nova Ramificação - Pasta 2
