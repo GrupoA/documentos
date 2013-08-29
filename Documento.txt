@@ -1,3 +1,4 @@
-﻿Documento1
-2 Commit
-Criado nova Ramificação - Pasta 2
+﻿Isto é da versão da Pasta 2
+||||Documento1
+||||2 Commit
+||||Criado nova Ramificação - Pasta 2
